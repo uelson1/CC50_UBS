@@ -1,2 +1,2 @@
 # CC50UBS
-Minha participação no curso CC50 da Fundação Estudar (MIT CS50)
+Minha participação no curso CC50 da Fundação Estudar (Havard CS50)
